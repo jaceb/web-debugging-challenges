@@ -1,0 +1,10 @@
+in app.js on line 1 "ui.router" was written incorrectly as "ui-router"
+
+in app.js the parentheses and brackets were paired incorrectly.   I closed the brackets and parentheses that were on line 3 with a set on line 22
+
+
+line 14 of app.js the controller for settingsCtrl wasn't written in camel case so I replaced the lowercase c with an uppercase C
+
+in app.js there were not commas after the name of the route so I placed them in after the name of the route
+
+in the html tag ng-app was missing the "=" between in front of the name
